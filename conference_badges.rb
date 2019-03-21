@@ -12,4 +12,5 @@ end
 
 def assign_rooms(name)
   new_array = []
-  name.each
+  name.each_with_index do |name, index|
+    new_array.push()
