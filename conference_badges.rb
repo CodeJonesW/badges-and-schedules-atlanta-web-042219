@@ -11,3 +11,4 @@ return new_array
 end
 
 def assign_rooms(name)
+  name.each_with_index
