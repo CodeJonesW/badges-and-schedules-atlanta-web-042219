@@ -22,4 +22,3 @@ def printer(name)
  batch_badge_creator
  assign_rooms
   end
-end
