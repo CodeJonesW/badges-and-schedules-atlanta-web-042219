@@ -18,3 +18,9 @@ def assign_rooms(name)
   return new_array
 end
 
+def printer(name)
+  new_array = []
+  name.each_with_index do |name, index|
+    new_array.push("#{name}, #{index+1}")
+  end
+end
