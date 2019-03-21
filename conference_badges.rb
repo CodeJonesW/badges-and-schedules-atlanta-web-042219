@@ -10,6 +10,8 @@ end
 return new_array
 end
 
-def assign_rooms(list)
+def assign_rooms(array)
+  array.each do |name|
+    
   
 end
