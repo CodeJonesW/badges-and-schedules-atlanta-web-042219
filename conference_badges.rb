@@ -17,3 +17,4 @@ def assign_rooms(name)
   end
   return new_array
 end
+
