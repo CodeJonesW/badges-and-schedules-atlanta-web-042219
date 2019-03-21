@@ -4,6 +4,6 @@ end
 
 def batch_badge_creator(attendees)
   newArray = []
- array.each do {|name|array.push
+ array.each do {|name|newArray.push
 
 end
